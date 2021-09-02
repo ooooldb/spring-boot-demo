@@ -1,2 +1,6 @@
 # Project exclude paths
 /mq-kafka/target/
+
+*/target
+
+*.imi
